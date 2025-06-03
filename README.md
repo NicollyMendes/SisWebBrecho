@@ -74,7 +74,7 @@ bash
 Copiar
 Editar
 cd backend
-python manage.py runserver
+python manage.py runserver 8080
 Execute o frontend:
 
 bash
