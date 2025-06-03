@@ -54,7 +54,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone <URL_DO_REPOSITÓRIO>
+git clone <https://github.com/NicollyMendes/SisWebBrecho>
 cd SisWebBrecho
 Instale as dependências do frontend e backend:
 
