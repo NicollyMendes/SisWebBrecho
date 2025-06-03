@@ -68,20 +68,21 @@ pip install -r requirements.txt
 # Frontend
 cd ../frontend
 npm install
-Execute o backend:
 
+Execute o backend:
 bash
 Copiar
 Editar
 cd backend
 python manage.py runserver 8080
-Execute o frontend:
 
+Execute o frontend:
 bash
 Copiar
 Editar
 cd ../frontend
 npm start
+
 Acesse o sistema:
 Abra o navegador e vá para http://localhost:3000
 
